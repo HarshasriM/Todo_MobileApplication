@@ -141,19 +141,10 @@ The application integrates with a FastAPI backend providing the following endpoi
 
 <div align="center">
 
-**Login Screen**
-
-<img src="https://raw.githubusercontent.com/HarshasriM/Todo_MobileApplication/master/frontend/assets/login.png" alt="Login Screen" width="300"/>
-
-*Secure login interface with gradient design and form validation*
-
----
-
-**Signup Screen**
-
-<img src="https://raw.githubusercontent.com/HarshasriM/Todo_MobileApplication/master/frontend/assets/signup.png" alt="Signup Screen" width="300"/>
-
-*User registration with comprehensive input validation*
+| Login Screen | Signup Screen |
+|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/HarshasriM/Todo_MobileApplication/master/frontend/assets/login.png" alt="Login Screen" width="280"/> | <img src="https://raw.githubusercontent.com/HarshasriM/Todo_MobileApplication/master/frontend/assets/signup.png" alt="Signup Screen" width="280"/> |
+| *Secure login interface with gradient design and form validation* | *User registration with comprehensive input validation* |
 
 </div>
 
@@ -161,31 +152,15 @@ The application integrates with a FastAPI backend providing the following endpoi
 
 <div align="center">
 
-**Dashboard - Todo Management**
+| Dashboard (Empty) | Dashboard (With Todos) |
+|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/HarshasriM/Todo_MobileApplication/master/frontend/assets/dashboard.png" alt="Dashboard Screen" width="280"/> | <img src="https://raw.githubusercontent.com/HarshasriM/Todo_MobileApplication/master/frontend/assets/dashboard2.png" alt="Dashboard with Todos" width="280"/> |
+| *Main dashboard showing todo list with create functionality* | *Dashboard populated with todos showing completion states* |
 
-<img src="https://raw.githubusercontent.com/HarshasriM/Todo_MobileApplication/master/frontend/assets/dashboard.png" alt="Dashboard Screen" width="300"/>
-
-*Main dashboard showing todo list with create functionality*
-
-<img src="https://raw.githubusercontent.com/HarshasriM/Todo_MobileApplication/master/frontend/assets/dashboard2.png" alt="Dashboard with Todos" width="300"/>
-
-*Dashboard populated with todos showing completion states*
-
----
-
-**Edit Todo Interface**
-
-<img src="https://raw.githubusercontent.com/HarshasriM/Todo_MobileApplication/master/frontend/assets/edit.png" alt="Edit Screen" width="300"/>
-
-*Todo editing interface with save/cancel options*
-
----
-
-**User Profile**
-
-<img src="https://raw.githubusercontent.com/HarshasriM/Todo_MobileApplication/master/frontend/assets/profile.png" alt="Profile Screen" width="300"/>
-
-*User profile with logout functionality*
+| Edit Todo Interface | User Profile |
+|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/HarshasriM/Todo_MobileApplication/master/frontend/assets/edit.png" alt="Edit Screen" width="280"/> | <img src="https://raw.githubusercontent.com/HarshasriM/Todo_MobileApplication/master/frontend/assets/profile.png" alt="Profile Screen" width="280"/> |
+| *Todo editing interface with save/cancel options* | *User profile with logout functionality* |
 
 </div>
 
@@ -244,15 +219,6 @@ The application includes comprehensive testing scenarios:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Support
-
-For support, email [support@todoapp.com](mailto:support@todoapp.com) or create an issue in the GitHub repository.
-
----
 
 **Built with ❤️ using React Native and Expo**
 
