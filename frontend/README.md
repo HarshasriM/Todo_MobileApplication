@@ -93,47 +93,38 @@ http://<your-ip>:8000
 
 ## 🖼️ Screenshots
 
-Add your screenshots in the repo:
 
-```
-./assets/screenshots/login.png
-./assets/screenshots/signup.png
-./assets/screenshots/dashboard.png
-./assets/screenshots/profile.png
-```
-
-Example usage:
 
 ```markdown
 ### Login Screen
-![Login](./assets/screenshots/login.png)
+![Login](./assets/login.png)
 ```
 
 ---
 
 ```markdown
 ### Signup Screen
-![signup](./assets/screenshots/signup.png)
+![signup](./assets/signup.png)
 ```
 
 ---
 
 ```markdown
 ### Profile Screen
-![profile](./assets/screenshots/profile.png)
+![profile](./assets/profile.png)
 ```
 
 ---
 ```markdown
 ### Dashboard Screen
-![dashboard](./assets/screenshots/dashboard.png)
-![dashboard](./assets/screenshots/dashboard2.png)
+![dashboard](./assets/dashboard.png)
+![dashboard](./assets/dashboard2.png)
 ```
 
 ---
 ```markdown
 ### Edit Screen
-![Edit](./assets/screenshots/edit.png)
+![Edit](./assets/edit.png)
 
 ```
 
