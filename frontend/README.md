@@ -95,38 +95,27 @@ http://<your-ip>:8000
 
 
 
-```markdown
 ### Login Screen
-![Login](./assets/login.png)
-```
+![Login](https://raw.githubusercontent.com/HarshasriM/Todo_MobileApplication/master/frontend/assets/login.png)
 
 ---
 
-```markdown
 ### Signup Screen
-![signup](./assets/signup.png)
-```
+![signup](https://raw.githubusercontent.com/HarshasriM/Todo_MobileApplication/master/frontend/assets/signup.png)
 
 ---
 
-```markdown
 ### Profile Screen
-![profile](./assets/profile.png)
-```
+![profile](https://raw.githubusercontent.com/HarshasriM/Todo_MobileApplication/master/frontend/assets/profile.png)
 
 ---
-```markdown
 ### Dashboard Screen
-![dashboard](./assets/dashboard.png)
-![dashboard](./assets/dashboard2.png)
-```
+![dashboard](https://raw.githubusercontent.com/HarshasriM/Todo_MobileApplication/master/frontend/assets/dashboard.png)
+![dashboard](https://raw.githubusercontent.com/HarshasriM/Todo_MobileApplication/master/frontend/assets/dashboard2.png)
 
 ---
-```markdown
 ### Edit Screen
-![Edit](./assets/edit.png)
-
-```
+![Edit](https://raw.githubusercontent.com/HarshasriM/Todo_MobileApplication/master/frontend/assets/edit.png)
 
 ---
 
