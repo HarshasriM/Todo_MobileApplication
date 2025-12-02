@@ -152,41 +152,16 @@ uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
 uvicorn app.main:app --host 0.0.0.0 --port 8000 --workers 4
 ```
 
-```
 
-## API Documentation
+
+### API Documentation
 
 ### Interactive Documentation
 - **Swagger UI**: `http://localhost:8000/docs`
 - **ReDoc**: `http://localhost:8000/redoc`
 
-### API Endpoints
 
-#### Authentication Endpoints
-
-| Method | Endpoint | Description | Authentication |
-|--------|----------|-------------|----------------|
-| POST | `/auth/signup` | User registration | None |
-| POST | `/auth/login` | User login | None |
-
-#### User Management Endpoints
-
-| Method | Endpoint | Description | Authentication |
-|--------|----------|-------------|----------------|
-| GET | `/users/me` | Get current user profile | JWT Required |
-
-#### Todo Management Endpoints
-
-| Method | Endpoint | Description | Authentication |
-|--------|----------|-------------|----------------|
-| GET | `/todos/` | Get user's todos | JWT Required |
-| POST | `/todos/` | Create new todo | JWT Required |
-| PATCH | `/todos/{todo_id}` | Update todo | JWT Required |
-| PATCH | `/todos/{todo_id}/complete` | Mark todo complete | JWT Required |
-| DELETE | `/todos/{todo_id}` | Delete todo | JWT Required |
-
-
-## API Usage Examples
+### API Usage Examples
 
 ### Authentication
 
